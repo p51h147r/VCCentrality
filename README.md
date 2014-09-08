@@ -1,0 +1,1 @@
+Venture Capital Fond Analysis based of graph theory.
